@@ -1,0 +1,3 @@
+# Requirements for Library Management System (Tkinter Version)
+
+python>=3.8
